@@ -1,7 +1,7 @@
 ## Delete linkedin connections easily
 
 1. Run `npm install`
-2. Update the delete.js file with the entire cookie your browser sends to linkedin
+2. Update the delete.js file and change the cookie constant from null to the entire cookie your browser sends to linkedin
 3. Put names of the people you want to delete into out.txt in this format:
 
 ```firstname:lastname
