@@ -5,7 +5,9 @@
 3. Put names of the people you want to delete into out.txt in this format:
 
 ```firstname:lastname
-firstname:lastname
+firstname 1:lastname 2
+firstname 1:lastname 2
+firstname 1:lastname 2
 etc...
 ```
 
