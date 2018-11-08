@@ -4,9 +4,10 @@
 2. Update the delete.js file with the entire cookie your browser sends to linkedin
 3. Put names of the people you want to delete into out.txt in this format:
 
-``firstname:lastname
+```firstname:lastname
 firstname:lastname
-etc...``
+etc...
+```
 
 4. Run `npm start` 
 
